@@ -1,4 +1,4 @@
-# Room Booking v1
+# Room Booking v1 (deprecated)
 
 ## About
 Saves you from clicking 2 buttons! Also sneezes when not logged in :)
